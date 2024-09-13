@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304751759785",
+    "project_id": "projetoelixandre",
+    "storage_bucket": "projetoelixandre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304751759785:android:5352dc0f0466c16a64b4b8",
+        "android_client_info": {
+          "package_name": "com.example.projectfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQaPfpAX5J3awMb18qOlEreSJBGIV400M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
